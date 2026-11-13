@@ -1,0 +1,5 @@
+Student: Zaragoza
+Student ID: TUPM-26-4171
+Seed digit: 1
+ID sum: 21
+Verification value: 169

@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Zaragoza
+Student ID: TUPM-26-4171
+Seed Digit: 1
+ID sum: 21
+Verification Value: 169
+Dataset Sample Size: 71
+Valid Records: 0
+Average Global Active Power: 0.000
+JSON File: output\Zaragoza_TUPM-26-4171_record.json
+Backup File: Zaragoza_TUPM-26-4171_record.csv
